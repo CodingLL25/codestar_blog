@@ -9,4 +9,3 @@ __pycache__/
 node_modules/
 .github/
 .venv
-.env.py
